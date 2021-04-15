@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://218.6.169.108:11180/a/download?filePath=/data/jeesite/files/2017/09/22/2271410141528354032.ipa</string>
+					<string>http://218.6.169.108:11180/a/download?filePath=/data/jeesite/files/2017/09/22/9025679772019403732.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -29,7 +29,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.maipu.serviceIntelligent</string>
+				<string>cn.sccl.app.tf.serviceIntelligent</string>
 				<key>bundle-version</key>
 				<string>1.00</string>
 				<key>kind</key>
