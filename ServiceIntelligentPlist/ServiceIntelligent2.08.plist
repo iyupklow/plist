@@ -17,13 +17,12 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://o7f0h1pct.qnssl.com/Icon-76.jpg</string>
+					<string>https://gitee.com/xyan2007/plist/raw/master/ServiceIntelligentPlist/Icon-76.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
-					<key>url</key>
-					<string>https://gitee.com/xyan2007/plist/blob/master/ServiceIntelligentPlist/Icon-76@2x.png</string>
+					<key>url</key>https://gitee.com/xyan2007/plist/raw/master/ServiceIntelligentPlist/Icon-76@2x.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
